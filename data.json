@@ -19,6 +19,20 @@
             "head": "Web development bootcamp",
             "para": "Webinar on Engineering and Industrial Services division of TCS.",
             "img": "https://wallpaperaccess.com/full/1642272.jpg"
+        },
+        {
+            "month": "Oct",
+            "date": "6",
+            "head": "Figma bootcamp",
+            "para": "Webinar on Engineering and Industrial Services division of TCS.",
+            "img": "https://wallpaperaccess.com/full/1642272.jpg"
+        },
+        {
+            "month": "Oct",
+            "date": "6",
+            "head": "Web development bootcamp",
+            "para": "Webinar on Engineering and Industrial Services division of TCS.",
+            "img": "https://wallpaperaccess.com/full/1642272.jpg"
         }
 
     ],
@@ -49,13 +63,13 @@
         "studentsCount": 259,
         "learningCircles": 10,
         "InterestGroups": 5,
-        "karmaEarned": 124700,
-        "rank": 29
+        "karmaEarned": 126700,
+        "rank": 23
     },
 
     "team": {
         "staffAdvisor": {
-            "name": "Enric S Neelamkavil",
+            "name": "Archana T",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
         "campusLead": {
@@ -63,7 +77,7 @@
             "image": "https://th.bing.com/th/id/OIP.DjyPSeO-t7bK2agoLSYJzgHaHa?pid=ImgDet&rs=1"
         },
         "campusCoLead": {
-            "name": "Enric S Neelamkavil",
+            "name": "Anshu Kumar",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
         "treasurer": {
