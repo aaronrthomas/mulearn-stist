@@ -3,7 +3,7 @@
 
     "college": "St Thomas Institute for Science and Technology",
 
-    "about": "Lorem ipsum dolor sit amet consectetur adipiscing, elit ultricies imperdiet neque mattis, orci pellentesque turpis facilisi leo. Laoreet donec tortor sagittis habitasse eleifend conubia quis lacinia accumsan auctor, montes morbi natoque convallis integer aliquam posuere eu nulla, proin fames dapibus mattis sociis ligula blandit quam potenti. Himenaeos fringilla tincidunt aptent porta ultrices velit dignissim senectus purus suspendisse, fames eleifend feugiat nam hac montes semper pretium potenti, viverra curae netus volutpat cras per eu cubilia primis.",
+    "about": "Established in 2021, the St. Thomas Institute for Science and Technology, Trivandrum MuLearn Community Chapter swiftly emerged as a hub of collaborative learning. Our proactive engagement catapulted the college to the 23rd rank among MuLearn chapters in Kerala by 2023. Offering impactful bootcamps in IoT, website development, and UI/UX design, we empower students with practical skills. Our diverse interest groups, focusing on web development and IoT, foster an environment for in-depth learning and collaboration. At our chapter, we are dedicated to cultivating a space where passion converges with proficiency, enabling students to excel in the dynamic realm of technology.",
 
     "events": [
         {
@@ -85,11 +85,11 @@
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
         "technicalLead": {
-            "name": "Enric S Neelamkavil",
+            "name": "Muhammed Ziyan Ummalil",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
         "mediaLead": {
-            "name": "Enric S Neelamkavil",
+            "name": "Fahad Nasar",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
         "contentLead": {
@@ -97,9 +97,6 @@
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
         "operationLead": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
-        }, "operationLead1": {
             "name": "Enric S Neelamkavil",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         }
