@@ -70,16 +70,16 @@ const Team = () => {
                         <div className={styles.team1Img}>
                             <img
                                 className={styles.teamImageIndividual}
-                                src={data.team.treasurer.image}
+                                src={data.team.operationLead.image}
                                 loading="lazy"
                             />
                         </div>
                         <div className={styles.teamNameDesignation}>
                             <div className={styles.teamMemberName}>
-                                {data.team.treasurer.name}
+                                {data.team.operationLead.name}
                             </div>
                             <div className={styles.teamMemberDesignation}>
-                                Treasurer
+                                Operation Lead
                             </div>
                         </div>
                     </div>
@@ -87,7 +87,7 @@ const Team = () => {
                         <div className={styles.team1Img}>
                             <img
                                 className={styles.teamImageIndividual}
-                                src={data.team.technicalLead.image}
+                                src={data.team.operationLead.image}
                                 loading="lazy"
                             />
                         </div>
@@ -104,6 +104,40 @@ const Team = () => {
                         <div className={styles.team1Img}>
                             <img
                                 className={styles.teamImageIndividual}
+                                src={data.team.technicaloLead.image}
+                                loading="lazy"
+                            />
+                        </div>
+                        <div className={styles.teamNameDesignation}>
+                            <div className={styles.teamMemberName}>
+                                {data.team.technicaloLead.name}
+                            </div>
+                            <div className={styles.teamMemberDesignation}>
+                                Technical Co-Lead
+                            </div>
+                        </div>
+                    </div>
+                    <div className={`${styles.team} ${styles.team7}`}>
+                        <div className={styles.team1Img}>
+                            <img
+                                className={styles.teamImageIndividual}
+                                src={data.team.designLead.image}
+                                loading="lazy"
+                            />
+                        </div>
+                        <div className={styles.teamNameDesignation}>
+                            <div className={styles.teamMemberName}>
+                                {data.team.designLead.name}
+                            </div>
+                            <div className={styles.teamMemberDesignation}>
+                                Design Lead
+                            </div>
+                        </div>
+                    </div>
+                    <div className={`${styles.team} ${styles.team8}`}>
+                        <div className={styles.team1Img}>
+                            <img
+                                className={styles.teamImageIndividual}
                                 src={data.team.mediaLead.image}
                                 loading="lazy"
                             />
@@ -114,40 +148,6 @@ const Team = () => {
                             </div>
                             <div className={styles.teamMemberDesignation}>
                                 Media Lead
-                            </div>
-                        </div>
-                    </div>
-                    <div className={`${styles.team} ${styles.team7}`}>
-                        <div className={styles.team1Img}>
-                            <img
-                                className={styles.teamImageIndividual}
-                                src={data.team.contentLead.image}
-                                loading="lazy"
-                            />
-                        </div>
-                        <div className={styles.teamNameDesignation}>
-                            <div className={styles.teamMemberName}>
-                                {data.team.contentLead.name}
-                            </div>
-                            <div className={styles.teamMemberDesignation}>
-                                Content Lead
-                            </div>
-                        </div>
-                    </div>
-                    <div className={`${styles.team} ${styles.team8}`}>
-                        <div className={styles.team1Img}>
-                            <img
-                                className={styles.teamImageIndividual}
-                                src={data.team.operationLead.image}
-                                loading="lazy"
-                            />
-                        </div>
-                        <div className={styles.teamNameDesignation}>
-                            <div className={styles.teamMemberName}>
-                                {data.team.operationLead.name}
-                            </div>
-                            <div className={styles.teamMemberDesignation}>
-                                Operation Lead
                             </div>
                         </div>
                     </div>
