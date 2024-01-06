@@ -70,35 +70,35 @@
     "team": {
         "staffAdvisor": {
             "name": "Archana T",
-            "image": "./src/assets/images/bg.svg"
+            "image": "./src/assets/images/bg.png"
         },
         "campusLead": {
             "name": "Muhammed R",
-            "image": "./src/assets/images/muhammed.svg"
+            "image": "./src/assets/images/muhammed.png"
         },
         "campusCoLead": {
             "name": "Anshu Kumar",
-            "image": "./src/assets/images/anshu.svg"
+            "image": "./src/assets/images/anshu.png"
         },
         "technicaloLead": {
             "name": "Dev Nandan",
-            "image": "./src/assets/images/dev.svg"
+            "image": "./src/assets/images/dev.png"
         },
         "technicalLead": {
             "name": "Muhammed Ziyan",
-            "image": "./src/assets/images/ziyan.svg"
+            "image": "./src/assets/images/ziyan.png"
         },
         "mediaLead": {
             "name": "Fahad Nazar",
-            "image": "./src/assets/images/fahad.svg"
+            "image": "./src/assets/images/fahad.png"
         },
         "designLead": {
             "name": "Abikrishna S",
-            "image": "./src/assets/images/aby.svg"
+            "image": "./src/assets/images/aby.png"
         },
         "operationLead": {
             "name": "Sabal Krishna S",
-            "image": "./src/assets/images/bg.svg"
+            "image": "./src/assets/images/bg.png"
         }
     },
 
