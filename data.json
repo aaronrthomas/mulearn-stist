@@ -70,35 +70,35 @@
     "team": {
         "staffAdvisor": {
             "name": "Archana T",
-            "image": "./src/assets/images/bg.png"
+            "image": "./public/images/bg.png"
         },
         "campusLead": {
             "name": "Muhammed R",
-            "image": "./src/assets/images/muhammed.png"
+            "image": "./public/images/muhammed.png"
         },
         "campusCoLead": {
             "name": "Anshu Kumar",
-            "image": "./src/assets/images/anshu.png"
+            "image": "./public/images/anshu.png"
         },
         "technicaloLead": {
             "name": "Dev Nandan",
-            "image": "./src/assets/images/dev.png"
+            "image": "./public/images/dev.png"
         },
         "technicalLead": {
             "name": "Muhammed Ziyan",
-            "image": "./src/assets/images/ziyan.png"
+            "image": "./public/images/ziyan.png"
         },
         "mediaLead": {
             "name": "Fahad Nazar",
-            "image": "./src/assets/images/fahad.png"
+            "image": "./public/images/fahad.png"
         },
         "designLead": {
             "name": "Abikrishna S",
-            "image": "./src/assets/images/aby.png"
+            "image": "./public/images/aby.png"
         },
         "operationLead": {
             "name": "Sabal Krishna S",
-            "image": "./src/assets/images/bg.png"
+            "image": "./public/images/bg.png"
         }
     },
 
