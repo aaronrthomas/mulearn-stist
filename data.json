@@ -74,7 +74,7 @@
         },
         "campusLead": {
             "name": "Muhammed R",
-            "image": "https://imgur.com/HRljYty"
+            "image": "./static/media/muhammed.png"
         },
         "campusCoLead": {
             "name": "Anshu Kumar",
