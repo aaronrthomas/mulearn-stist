@@ -70,7 +70,7 @@
     "team": {
         "staffAdvisor": {
             "name": "Archana T",
-            "image": "https://imgur.com/undefined"
+            "image": "./static/media/bg.png"
         },
         "campusLead": {
             "name": "Muhammed R",
@@ -78,27 +78,27 @@
         },
         "campusCoLead": {
             "name": "Anshu Kumar",
-            "image": "https://imgur.com/5aDZDV8"
+            "image": "./static/media/anshu.png"
         },
         "technicaloLead": {
             "name": "Dev Nandan",
-            "image": "https://imgur.com/undefined"
+            "image": "./static/media/dev.png"
         },
         "technicalLead": {
             "name": "Muhammed Ziyan",
-            "image": "https://imgur.com/undefined"
+            "image": "./static/media/ziyan.png"
         },
         "mediaLead": {
             "name": "Fahad Nazar",
-            "image": "https://imgur.com/undefined"
+            "image": "./static/media/fahad.png"
         },
         "designLead": {
             "name": "Abikrishna S",
-            "image": "https://imgur.com/undefined"
+            "image": "./static/media/aby.png"
         },
         "operationLead": {
             "name": "Sabal Krishna S",
-            "image": "https://imgur.com/undefined"
+            "image": "./static/media/bg.png"
         }
     },
 
