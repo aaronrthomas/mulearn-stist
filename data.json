@@ -7,55 +7,70 @@
 
     "events": [
         {
+            "month": "Nov",
+            "date": "3",
+            "head": "Web development bootcamp",
+            "para": "Webinar on Engineering and Industrial Services division of TCS.",
+            "img": "./static/media/web2poster.png"
+        },
+        {
+            "month": "Nov",
+            "date": "3",
+            "head": "Figma bootcamp",
+            "para": "Webinar on Engineering and Industrial Services division of TCS.",
+            "img": "./static/media/figmaposter.png"
+        },
+        {
+            "month": "Oct",
+            "date": "6",
+            "head": "Web development bootcamp",
+            "para": "Webinar on Engineering and Industrial Services division of TCS.",
+            "img": "./static/media/webposter.jpeg"
+        },
+        {
             "month": "Sep",
             "date": "15,16",
             "head": "IoT bootcamp",
             "para": "Webinar on Engineering and Industrial Services division of TCS.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
-        },
-        {
-            "month": "Oct",
-            "date": "6",
-            "head": "Web development bootcamp",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
-        },
-        {
-            "month": "Oct",
-            "date": "6",
-            "head": "Figma bootcamp",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
-        },
-        {
-            "month": "Oct",
-            "date": "6",
-            "head": "Web development bootcamp",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
+            "img": "./static/media/iotposter.png"
         }
 
     ],
 
     "gallery": {
         "row1": [
-            {
-                "image": "https://mulearn.org/assets/home/illustration.webp"
+              {
+                "image": "./static/media/ing1.webp"
             },
             {
-                "image": "https://mulearn.org/assets/home/Chart.webp"
-            },
-			{
-				"image": "https://learn.mulearn.org/assets/challenge/typingsample.webp"
-			}
+                "image": "./static/media/ing2.webp"
+            },{
+                "image": "./static/media/ing3.webp"
+            },{
+                "image": "./static/media/ing4.webp"
+            },{
+                "image": "./static/media/ing5.webp"
+            },{
+                "image": "./static/media/ing6.webp"
+            },{
+                "image": "./static/media/ing7.webp"
+            },{
+                "image": "./static/media/ing8.webp"
+            },{
+                "image": "./static/media/ing9.webp"
+            }
+            
         ],
         "row2": [
-            {
-                "image": "https://th.bing.com/th/id/OIP.p5zC9uLm5ByGSy8gYI0McAHaE8?pid=ImgDet&rs=1"
+          {
+                "image": "./static/media/memories1.jpeg"
             },
             {
-                "image": "https://images.squarespace-cdn.com/content/v1/5c710438b914490d5769a64f/b4fb2b4f-5f95-41a1-9416-d156d0ae273f/Most+Famous+Astrologer+in+the+World.jpg"
-            }
+                "image": "./static/media/memories2.jpeg"
+            },
+			{
+				"image": "./static/media/memories3.jpeg"
+			}
         ]
     },
 
