@@ -39,10 +39,9 @@
 
     "gallery": {
         "row1": [
-              {
-                "image": "./static/media/ing1.webp"
-            },
             {
+                "image": "./static/media/ing1.webp"
+            },{
                 "image": "./static/media/ing2.webp"
             },{
                 "image": "./static/media/ing3.webp"
@@ -56,8 +55,6 @@
                 "image": "./static/media/ing7.webp"
             },{
                 "image": "./static/media/ing8.webp"
-            },{
-                "image": "./static/media/ing9.webp"
             }
             
         ],

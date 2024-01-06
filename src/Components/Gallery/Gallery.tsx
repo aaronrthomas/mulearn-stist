@@ -34,6 +34,7 @@ const Gallery = () => {
                 </Marquee>
             </div>
         </div>
+        
     );
 };
 
