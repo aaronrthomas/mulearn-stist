@@ -70,35 +70,35 @@
     "team": {
         "staffAdvisor": {
             "name": "Archana T",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "image": "./src/assets/images/bg.svg"
         },
         "campusLead": {
             "name": "Muhammed R",
-            "image": "https://th.bing.com/th/id/OIP.DjyPSeO-t7bK2agoLSYJzgHaHa?pid=ImgDet&rs=1"
+            "image": "./src/assets/images/muhammed.svg"
         },
         "campusCoLead": {
             "name": "Anshu Kumar",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "image": "./src/assets/images/anshu.svg"
         },
         "technicaloLead": {
             "name": "Dev Nandan",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "image": "./src/assets/images/dev.svg"
         },
         "technicalLead": {
-            "name": "Muhammed Ziyan Ummalil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "name": "Muhammed Ziyan",
+            "image": "./src/assets/images/ziyan.svg"
         },
         "mediaLead": {
             "name": "Fahad Nazar",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "image": "./src/assets/images/fahad.svg"
         },
         "designLead": {
             "name": "Abikrishna S",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "image": "./src/assets/images/aby.svg"
         },
         "operationLead": {
             "name": "Sabal Krishna S",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "image": "./src/assets/images/bg.svg"
         }
     },
 
