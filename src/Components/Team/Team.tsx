@@ -13,6 +13,7 @@ const Team = () => {
                     <img src={line2} alt="" loading="lazy" />
                     <img src={line} alt="" loading="lazy" />
                     <img src={line2} alt="" loading="lazy" />
+                    
                 </div>
                 <div className={styles.teamMembersDetailsWrapper}>
                     <div className={`${styles.team} ${styles.team1}`}>
@@ -80,6 +81,74 @@ const Team = () => {
                             </div>
                             <div className={styles.teamMemberDesignation}>
                                 Operation Lead
+                            </div>
+                        </div>
+                    </div>
+                                        <div className={`${styles.team} ${styles.team5}`}>
+                        <div className={styles.team1Img}>
+                            <img
+                                className={styles.teamImageIndividual}
+                                src={data.team.technicalLead.image}
+                                loading="lazy"
+                            />
+                        </div>
+                        <div className={styles.teamNameDesignation}>
+                            <div className={styles.teamMemberName}>
+                                {data.team.technicalLead.name}
+                            </div>
+                            <div className={styles.teamMemberDesignation}>
+                                Technical Lead
+                            </div>
+                        </div>
+                    </div>
+                    <div className={`${styles.team} ${styles.team6}`}>
+                        <div className={styles.team1Img}>
+                            <img
+                                className={styles.teamImageIndividual}
+                                src={data.team.technicaloLead.image}
+                                loading="lazy"
+                            />
+                        </div>
+                        <div className={styles.teamNameDesignation}>
+                            <div className={styles.teamMemberName}>
+                                {data.team.technicaloLead.name}
+                            </div>
+                            <div className={styles.teamMemberDesignation}>
+                                Technical Co-Lead
+                            </div>
+                        </div>
+                    </div>
+                    <div className={`${styles.team} ${styles.team7}`}>
+                        <div className={styles.team1Img}>
+                            <img
+                                className={styles.teamImageIndividual}
+                                src={data.team.designLead.image}
+                                loading="lazy"
+                            />
+                        </div>
+                        <div className={styles.teamNameDesignation}>
+                            <div className={styles.teamMemberName}>
+                                {data.team.designLead.name}
+                            </div>
+                            <div className={styles.teamMemberDesignation}>
+                                Design Lead
+                            </div>
+                        </div>
+                    </div>
+                    <div className={`${styles.team} ${styles.team8}`}>
+                        <div className={styles.team1Img}>
+                            <img
+                                className={styles.teamImageIndividual}
+                                src={data.team.mediaLead.image}
+                                loading="lazy"
+                            />
+                        </div>
+                        <div className={styles.teamNameDesignation}>
+                            <div className={styles.teamMemberName}>
+                                {data.team.mediaLead.name}
+                            </div>
+                            <div className={styles.teamMemberDesignation}>
+                                Media Lead
                             </div>
                         </div>
                     </div>
@@ -151,14 +220,9 @@ const Team = () => {
                             </div>
                         </div>
                     </div>
-
-
-
-                    
-
-
                 </div>
             </div>
+
         </div>
     );
 };

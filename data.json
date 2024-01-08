@@ -3,35 +3,35 @@
 
     "college": "St Thomas Institute for Science and Technology",
 
-    "about": "Established in 2021, the St. Thomas Institute for Science and Technology, Trivandrum MuLearn Community Chapter swiftly emerged as a hub of collaborative learning. Our proactive engagement catapulted the college to the 23rd rank among MuLearn chapters in Kerala by 2023. Offering impactful bootcamps in IoT, website development, and UI/UX design, we empower students with practical skills. Our diverse interest groups, focusing on web development and IoT, foster an environment for in-depth learning and collaboration. At our chapter, we are dedicated to cultivating a space where passion converges with proficiency, enabling students to excel in the dynamic realm of technology.",
+    "about": "Established in 2021, our Trivandrum µLearn Community Chapter at the St. Thomas Institute for Science and Technology swiftly climbed the ranks, landing at the impressive 23rd position among µLearn chapters in Kerala by 2023. We ignite students' potential through immersive bootcamps in IoT, web development, UI/UX design, and much more, sculpting future tech heroes. Crafting a fusion of passion and prowess, carving a pathway for students to conquer and innovate in this ever-growing realm of technology.",
 
     "events": [
         {
             "month": "Nov",
             "date": "3",
             "head": "Web development bootcamp",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
+            "para": "Unleashing creativity through code, our previous web development Bootcamp was a bouquet of success!",
             "img": "./static/media/web2poster.png"
         },
         {
             "month": "Nov",
             "date": "3",
             "head": "Figma bootcamp",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
+            "para": "Exploring design possibilities through Figma, our Bootcamp turned out to be a gateway to creative horizons!",
             "img": "./static/media/figmaposter.png"
         },
         {
             "month": "Oct",
             "date": "6",
             "head": "Web development bootcamp",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
+            "para": "Unleashing creativity through code, our previous web development Bootcamp was a bouquet of success!",
             "img": "./static/media/webposter.jpeg"
         },
         {
             "month": "Sep",
             "date": "15,16",
             "head": "IoT bootcamp",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
+            "para": "Exploring the future in our IoT Bootcamp, a journey into the world of limitless innovation!",
             "img": "./static/media/iotposter.png"
         }
 
@@ -75,7 +75,7 @@
         "studentsCount": 259,
         "learningCircles": 10,
         "InterestGroups": 5,
-        "karmaEarned": 126700,
+        "karmaEarned": 126200,
         "rank": 23
     },
 
