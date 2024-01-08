@@ -28,22 +28,22 @@ const Footer = () => {
                 </div>
             </div>
             <div className={styles.socialMedia}>
-                {/* <a href={data.linkedIn}>
+                <a href={data.linkedIn}>
                     <LinkedIn />
                     LinkedIn
-                </a> */}
+                </a>
                 <a href={data.instagram}>
                     <Instagram />
                     Instagram
                 </a>
-                {/* <a href={data.twitter}>
+                <a href={data.twitter}>
                     <Twitter />
                     Twitter
                 </a>
                 <a href={data.facebook}>
                     <Facebook />
                     Facebook
-                </a> */}
+                </a>
             </div>
             <div className={styles.line}></div>
             <div className={styles.ptag}>
