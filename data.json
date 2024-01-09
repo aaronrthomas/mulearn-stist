@@ -82,7 +82,7 @@
     "team": {
         "staffAdvisor": {
             "name": "Archana T",
-            "image": "./static/media/bg.png"
+            "image": "./static/media/archana.webp"
         },
         "campusLead": {
             "name": "Muhammed R",
@@ -102,11 +102,11 @@
         },
         "mediaLead": {
             "name": "Fahad Nazar",
-            "image": "./static/media/fahad.png"
+            "image": "./static/media/fahad.webp"
         },
         "designLead": {
             "name": "Abikrishna S",
-            "image": "./static/media/aby.png"
+            "image": "./static/media/aby.webp"
         },
         "operationLead": {
             "name": "Sabal Krishna S",
