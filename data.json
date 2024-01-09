@@ -11,28 +11,28 @@
             "date": "3",
             "head": "Web development bootcamp",
             "para": "Unleashing creativity through code, our previous web development Bootcamp was a bouquet of success!",
-            "img": "./static/media/web2poster.png"
+            "img": "./static/media/web2poster.webp"
         },
         {
             "month": "Nov",
             "date": "3",
             "head": "Figma bootcamp",
             "para": "Exploring design possibilities through Figma, our Bootcamp turned out to be a gateway to creative horizons!",
-            "img": "./static/media/figmaposter.png"
+            "img": "./static/media/figmaposter.webp"
         },
         {
             "month": "Oct",
             "date": "6",
             "head": "Web development bootcamp",
             "para": "Unleashing creativity through code, our previous web development Bootcamp was a bouquet of success!",
-            "img": "./static/media/webposter.jpeg"
+            "img": "./static/media/webposter.webp"
         },
         {
             "month": "Sep",
             "date": "15,16",
             "head": "IoT bootcamp",
             "para": "Exploring the future in our IoT Bootcamp, a journey into the world of limitless innovation!",
-            "img": "./static/media/iotposter.png"
+            "img": "./static/media/iotposter.webp"
         }
 
     ],
