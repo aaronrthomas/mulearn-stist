@@ -60,13 +60,13 @@
         ],
         "row2": [
           {
-                "image": "./static/media/memories1.jpeg"
+                "image": "./static/media/memories1.webp"
             },
             {
-                "image": "./static/media/memories2.jpeg"
+                "image": "./static/media/memories2.webp"
             },
 			{
-				"image": "./static/media/memories3.jpeg"
+				"image": "./static/media/memories3.webp"
 			}
         ]
     },
