@@ -80,9 +80,16 @@
     },
 
     "team": {
+         "headInstitute": {
+            "name": "Dr Mathew A G",
+            "image": "./static/media/mathew.webp"
+        },
         "staffAdvisor": {
             "name": "Archana T",
             "image": "./static/media/archana.webp"
+        }, "coConvener": {
+            "name": "Dr Geenu Paul",
+            "image": "./static/media/geenu.webp"
         },
         "campusLead": {
             "name": "Muhammed R",
@@ -111,6 +118,30 @@
         "operationLead": {
             "name": "Sabal Krishna S",
             "image": "./static/media/sabal.png"
+        },
+        "coOperationLead": {
+            "name": "Saurabh Nandan",
+            "image": "./static/media/sourab.webp"
+        },
+         "designCoLead": {
+            "name": "Aryan C",
+            "image": "./static/media/aryan.webp"
+        },
+        "cseEnabler": {
+            "name": "Bindu A T",
+            "image": "./static/media/bg.png"
+        },
+        "ceEnabler": {
+            "name": "Aishwarya S",
+            "image": "./static/media/aishwarya.webp"
+        },
+        "meEnabler": {
+            "name": "Ashish Zachariah",
+            "image": "./static/media/bg.png"
+        },
+        "eeeEnabler": {
+            "name": "Jisha A J",
+            "image": "./static/media/jisha.webp"
         }
     },
 
