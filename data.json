@@ -7,6 +7,13 @@
 
     "events": [
         {
+            "month": "Feb",
+            "date": "1,2",
+            "head": "Intro to programing",
+            "para": "Embark on a journey of digital empowerment; our upcoming Introduction to Programming workshop promises to transform ideas into reality!",
+            "img": "./static/media/introcode.webp"
+        },
+        {
             "month": "Nov",
             "date": "3",
             "head": "Web development bootcamp",
