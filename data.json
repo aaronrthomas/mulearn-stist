@@ -7,39 +7,39 @@
 
     "events": [
         {
+            "month": "Mar",
+            "date": "6,7",
+            "head": "'Yudhya' - Hackathon",
+            "para": "A 24-hour hackathon where teams dive into coding challenges, craft innovative tech solutions, and showcase their collaborative brilliance.",
+            "img": "./static/media/Yudhya Hackathon.png"
+        },
+        {
             "month": "Feb",
-            "date": "1,2",
-            "head": "Intro to programing",
-            "para": "Embark on a journey of digital empowerment; our upcoming Introduction to Programming workshop promises to transform ideas into reality!",
-            "img": "./static/media/introcode.webp"
-        },
-        {
-            "month": "Nov",
-            "date": "3",
-            "head": "Web development bootcamp",
+            "date": "17",
+            "head": "Codev",
             "para": "Unleashing creativity through code, our previous web development Bootcamp was a bouquet of success!",
-            "img": "./static/media/web2poster.webp"
+            "img": "./static/media/Codev C.png"
         },
         {
-            "month": "Nov",
-            "date": "3",
-            "head": "Figma bootcamp",
-            "para": "Exploring design possibilities through Figma, our Bootcamp turned out to be a gateway to creative horizons!",
-            "img": "./static/media/figmaposter.webp"
+            "month": "Mar",
+            "date": "6,7,8",
+            "head": "Yukthi Tech Fest",
+            "para": "Yukthi Techfest is a vibrant celebration of tech, empathy, and innovation—where students connect, create, and thrive together.",
+            "img": "./static/media/Yukthi 25.png"
         },
         {
-            "month": "Oct",
-            "date": "6",
-            "head": "Web development bootcamp",
-            "para": "Unleashing creativity through code, our previous web development Bootcamp was a bouquet of success!",
-            "img": "./static/media/webposter.webp"
+            "month": "Mar",
+            "date": "8",
+            "head": "HR Panel Discussion",
+            "para": "A power-packed panel at YUKTHI '25 where experts decode how to go from campus to corporate with impact.",
+            "img": "./static/media/HR.png"
         },
         {
-            "month": "Sep",
-            "date": "15,16",
-            "head": "IoT bootcamp",
-            "para": "Exploring the future in our IoT Bootcamp, a journey into the world of limitless innovation!",
-            "img": "./static/media/iotposter.webp"
+            "month": "Apr",
+            "date": "30",
+            "head": "'μFarewell' A Tribute",
+            "para": "A heartfelt tribute to the seniors who helped shape the mulearn community with vision and passion",
+            "img": "./static/media/farewell invitation.png"
         }
 
     ],
@@ -47,33 +47,33 @@
     "gallery": {
         "row1": [
             {
-                "image": "./static/media/ing1.webp"
+                "image": "./static/media/1.webp"
             },{
-                "image": "./static/media/ing2.webp"
+                "image": "./static/media/2.webp"
             },{
-                "image": "./static/media/ing3.webp"
+                "image": "./static/media/3.webp"
             },{
-                "image": "./static/media/ing4.webp"
+                "image": "./static/media/4.webp"
             },{
-                "image": "./static/media/ing5.webp"
+                "image": "./static/media/5.webp"
             },{
-                "image": "./static/media/ing6.webp"
+                "image": "./static/media/6.webp"
             },{
-                "image": "./static/media/ing7.webp"
+                "image": "./static/media/7.jpg"
             },{
-                "image": "./static/media/ing8.webp"
+                "image": "./static/media/8.webp"
             }
             
         ],
         "row2": [
           {
-                "image": "./static/media/memories1.webp"
+                "image": "./static/media/9.webp"
             },
             {
-                "image": "./static/media/memories2.webp"
+                "image": "./static/media/11.webp"
             },
 			{
-				"image": "./static/media/memories3.webp"
+				"image": "./static/media/10.jpg"
 			}
         ]
     },
@@ -83,7 +83,7 @@
         "learningCircles": 10,
         "InterestGroups": 5,
         "karmaEarned": 126200,
-        "rank": 23
+        "rank": 5
     },
 
     "team": {
@@ -178,9 +178,10 @@
     "name": "Reshna",
     "image": "./static/media/reshna.png"
 },
+
         "cseEnabler": {
             "name": "Bindu Ann Thomas",
-            "image": "./static/media/bindu miss.png"
+            "image": "./static/media/bindu.png"
         },
         "ceEnabler": {
             "name": "Aishwarya S",

@@ -17,6 +17,7 @@ function App() {
             <Navbar />
             <Home />
             <About />
+            <br /><br />
             <Events />
             <Gallery />
             <Statistics />
