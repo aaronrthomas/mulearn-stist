@@ -93,50 +93,95 @@
         },
         "staffAdvisor": {
             "name": "Archana T",
-            "image": "./static/media/archana.webp"
+            "image": "./static/media/archana miss.png"
         }, "coConvener": {
             "name": "Dr Geenu Paul",
             "image": "./static/media/geenu.webp"
         },
         "campusLead": {
-            "name": "Muhammed R",
-            "image": "./static/media/muhammed.png"
+            "name": "Muhammed Ziyan",
+            "image": "./static/media/ziyan chettan.png"
         },
         "campusCoLead": {
-            "name": "Anshu Kumar",
-            "image": "./static/media/anshu.png"
+            "name": "Dev Nandan",
+            "image": "./static/media/Dev nandan.png"
         },
         "technicaloLead": {
-            "name": "Dev Nandan",
-            "image": "./static/media/dev.png"
+            "name": "Ashish",
+            "image": "./static/media/Ashish.png"
         },
         "technicalLead": {
-            "name": "Muhammed Ziyan",
-            "image": "./static/media/ziyan.png"
+            "name": "Aryan C",
+            "image": "./static/media/Aryan.png"
         },
         "mediaLead": {
-            "name": "Fahad Nazar",
-            "image": "./static/media/fahad.webp"
+            "name": "Karthik Sankar",
+            "image": "./static/media/Karthik.png"
+        },
+        "mediacoLead": {
+            "name": "Bhuvana S R",
+            "image": "./static/media/Bhuvana.png"
         },
         "designLead": {
             "name": "Abikrishna S",
-            "image": "./static/media/aby.webp"
+            "image": "./static/media/abi.png"
         },
         "operationLead": {
-            "name": "Sabal Krishna S",
-            "image": "./static/media/sabal.png"
+            "name": "Darshan Kumar S",
+            "image": "./static/media/darshan chettan.png"
         },
         "coOperationLead": {
-            "name": "Saurabh Nandan",
-            "image": "./static/media/sourab.webp"
+            "name": "Ahla Ashraf",
+            "image": "./static/media/Ahla.png"
         },
          "designCoLead": {
-            "name": "Aryan C",
-            "image": "./static/media/aryan.webp"
+            "name": "Anandhithaa k",
+            "image": "./static/media/Annandhi.png"
         },
+        "SocialMedia": {
+    "name": "Fathima M",
+    "image": "./static/media/Fathima.png"
+},
+"SocialMediacolead": {
+    "name": "Hisana Saji",
+    "image": "./static/media/Hisana.png"
+},
+"Publicrelations": {
+    "name": "Fahad Nazar",
+    "image": "./static/media/Fahad.png"
+},
+"PublicrelationsCoLead": {
+    "name": "Sharon",
+    "image": "./static/media/Sharon.png"
+},
+"Documentationlead": {
+    "name": "Sabal Krishna S",
+    "image": "./static/media/Sabal.png"
+},
+"Documentationcolead": {
+    "name": "Anandhithaa k",
+    "image": "./static/media/Annandhi.png"
+},
+"Financendmarketinglead": {
+    "name": "Devadathan D R",
+    "image": "./static/media/Devadathan.png"
+},
+"Financendmarketingcolead": {
+    "name": "Jyolsna Jose",
+    "image": "./static/media/Jyolsna.png"
+},
+"Contentlead": {
+    "name": "Saurabh Nandan",
+    "image": "./static/media/Sourab.png"
+},
+"Contentcolead": {
+    "name": "Reshna",
+    "image": "./static/media/reshna.png"
+},
+
         "cseEnabler": {
             "name": "Bindu Ann Thomas",
-            "image": "./static/media/bindu.webp"
+            "image": "./static/media/bindu miss.png"
         },
         "ceEnabler": {
             "name": "Aishwarya S",
