@@ -1,5 +1,5 @@
 import styles from "./ExploreLC.module.css";
-import image from "./assets/explorelc.svg";
+import image from "./assets/explorelc.webp";
 
 const ExploreLC = () => {
     return (

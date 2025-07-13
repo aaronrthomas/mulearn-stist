@@ -11,35 +11,35 @@
             "date": "6,7",
             "head": "'Yudhya' - Hackathon",
             "para": "A 24-hour hackathon where teams dive into coding challenges, craft innovative tech solutions, and showcase their collaborative brilliance.",
-            "img": "./static/media/Yudhya Hackathon.png"
+            "img": "./static/media/Yudhya Hackathon (1).webp"
         },
         {
             "month": "Feb",
             "date": "17",
             "head": "Codev",
             "para": "Unleashing creativity through code, our previous web development Bootcamp was a bouquet of success!",
-            "img": "./static/media/Codev C.png"
+            "img": "./static/media/Codev C (1).webp"
         },
         {
             "month": "Mar",
             "date": "6,7,8",
             "head": "Yukthi Tech Fest",
             "para": "Yukthi Techfest is a vibrant celebration of tech, empathy, and innovation—where students connect, create, and thrive together.",
-            "img": "./static/media/Yukthi 25.png"
+            "img": "./static/media/Yukthi 25 (1).webp"
         },
         {
             "month": "Mar",
             "date": "8",
             "head": "HR Panel Discussion",
             "para": "A power-packed panel at YUKTHI '25 where experts decode how to go from campus to corporate with impact.",
-            "img": "./static/media/HR.png"
+            "img": "./static/media/HR (1).webp"
         },
         {
             "month": "Apr",
             "date": "30",
             "head": "'μFarewell' A Tribute",
             "para": "A heartfelt tribute to the seniors who helped shape the mulearn community with vision and passion",
-            "img": "./static/media/farewell invitation.png"
+            "img": "./static/media/farewell invitation (1).webp"
         }
 
     ],
@@ -59,7 +59,7 @@
             },{
                 "image": "./static/media/6.webp"
             },{
-                "image": "./static/media/7.jpg"
+                "image": "./static/media/7.webp"
             },{
                 "image": "./static/media/8.webp"
             }
@@ -73,7 +73,7 @@
                 "image": "./static/media/11.webp"
             },
 			{
-				"image": "./static/media/10.jpg"
+				"image": "./static/media/10.webp"
 			}
         ]
     },

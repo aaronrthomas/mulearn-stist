@@ -1,5 +1,5 @@
 import styles from "./Home.module.css";
-import image from "./assets/homeimg.svg";
+import image from "./assets/homeimg.webp";
 import { BlueStar, WhiteStar, Mu } from "./assets/svg";
 import data from '../../../data.json'
 
