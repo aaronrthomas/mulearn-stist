@@ -93,10 +93,10 @@
         },
         "staffAdvisor": {
             "name": "Archana T",
-            "image": "./static/media/archana miss.png"
+            "image": "./static/media/archana.png"
         }, "coConvener": {
             "name": "Dr Geenu Paul",
-            "image": "./static/media/geenu.webp"
+            "image": "./static/media/geenu.png"
         },
         "campusLead": {
             "name": "Muhammed Ziyan",
@@ -178,7 +178,6 @@
     "name": "Reshna",
     "image": "./static/media/reshna.png"
 },
-
         "cseEnabler": {
             "name": "Bindu Ann Thomas",
             "image": "./static/media/bindu miss.png"

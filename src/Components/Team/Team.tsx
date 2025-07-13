@@ -528,8 +528,8 @@ const Team = () => {
                                 EEE Enabler
                             </div>
                         </div>
-                    </div>
-            </div>
+                     </div>
+        </div>
 </div>
 </div>
     );
